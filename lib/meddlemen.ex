@@ -1,0 +1,2 @@
+defmodule Meddlemen do
+end
